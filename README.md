@@ -1,6 +1,6 @@
 # 网页小配件之时钟
 
-![时钟](./clock.png "clock")
+![时钟](https://github.com/AARON-CHENMY/webclock/blob/master/clock.PNG "clock")
 
 ## 动机
 
