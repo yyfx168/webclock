@@ -13,5 +13,5 @@
 .displayscale{ width:5%;height:1px;background-color:#555;float:left;}
 /*时针、分针、秒针*/
 .hourhand{width:25%;height:4px;background-color:black;transform-origin:0%;z-index:20;position:absolute;top:50%;left:50%;border-radius:2px;box-shadow:1px -3px 8px 3px #aaa;}
-.minutehand{width:32.5%;height:2px;background-color:black;transform-origin:0%;z-index:20;position:absolute;top:50%;left:50%;border-radius:1px;box-shadow:1px -3px 8px 1px #aaa;}
-.secondhand{width:42.5%;height:1px;background-color:red;transform-origin:0%;z-index:20;position:absolute;top:50%;left:50%;box-shadow:1px -3px 8px 1px #aaa;}
+.minutehand{width:33.5%;height:2px;background-color:black;transform-origin:5.5%;z-index:20;position:absolute;top:50%;left:48%;border-radius:1px;box-shadow:1px -3px 8px 1px #aaa;}
+.secondhand{width:47.5%;height:1px;background-color:red;transform-origin:8.5%;z-index:20;position:absolute;top:50%;left:46%;box-shadow:1px -3px 8px 1px #aaa;}
